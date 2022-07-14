@@ -1,0 +1,16 @@
+{
+  "name": "js-projects",
+  "version": "1.0.0",
+  "description": "JS drills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "BAJ",
+    "jsman"
+  ],
+  "author": "Thomas Chang",
+  "license": "ISC"
+}

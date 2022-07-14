@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Lato&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+p {
+  font-family: Lato, Sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  max-width: 66ch;
+  line-height: 1.8;
+  color: DarkSlateGray;
+  margin: 1.5rem 0;
+  text-aligh: center;
+}
+
+h1 {
+  color: Silver;
+  font-size: 5rem;
+  font-weight: 700;
+  letter-spacing: -3px;
+  line-height: 1.05;
+  margin-bottom: 2rem;
+  font-family: Roboto, Sans-serif;
+}
